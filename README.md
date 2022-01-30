@@ -5,7 +5,7 @@ I'm come from China and now is a **Senior** student.
 
 During 3 years studied in Junior High School.I can speak **Japenese** and English,of course and Chinese
 
-Here's my own blog![](https://img.shields.io/badge/%E6%88%91%E7%9A%84BLOG-ownspace.ltsstudio.top-blue)
+Here's my own blog![](https://img.shields.io/badge/MyBLOG-ownspace.ltsstudio.top-blue)
 
 Here are some ideas to let you know more about me:
 
