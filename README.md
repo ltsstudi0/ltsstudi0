@@ -28,7 +28,8 @@ Here are some ideas to let you know more about me:
 - 💬 Ask me about ~~Study and The way to earn money~~
 
 
-- 📫 How to reach me: [![](https://img.shields.io/badge/By-Telegram-red.svg)]({https://t.me/liyuucoco})
+- 📫 How to reach me: [![](https://img.shields.io/badge/By-Telegram-red.svg)]({https://t.me/liyuucoco})      Press [HERE](https://t.me/liyuucoco) to contact me.
+                    
 
 
 - ⚡ Fun fact: Coding Communicating~~(not good at)~~ Gaming **ANIME**(Interested in)
