@@ -5,6 +5,8 @@ I'm come from China and now is a **Senior** student.
 
 During 3 years studied in Junior High School.I can speak **Japenese** and English,of course and Chinese
 
+With a really crazy heart on opensource things,so I opened **OpenCano Project** in Chinese New Year(~~I Love CNY~~)
+
 Here's my own blog![](https://img.shields.io/badge/MyBLOG-ownspace.ltsstudio.top-blue)
 
 Here are some ideas to let you know more about me:
